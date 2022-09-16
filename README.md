@@ -3,8 +3,6 @@ iOS Lock Screen Widget showing used or available mobile data for a Telekom contr
 
 <img src="https://user-images.githubusercontent.com/8177259/190778770-99cf36cf-da15-40c2-b546-4be85fdac0e2.jpg" width="420"/>
 
-Thank you, [@simonbs](https://twitter.com/simonbs) for the app [Scriptable](https://scriptable.app).
-
 ## Configuration
 
 You can configure the provider logo and the type of data shown by setting the widgets parameter to `provider;data`. Valid values for the provider are `telekom`, `congstar` or `fraenk`. The shown data can be either `available` or `used`.
@@ -23,3 +21,7 @@ For this to work, you have to run the widget's script while NOT connected to a W
 
 - iOS 16 or later
 - [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) app with lock screen widget support (>= 1.7 188)
+
+## Thanks
+
+Thank you, [@simonbs](https://twitter.com/simonbs) for the app [Scriptable](https://scriptable.app). Thanks to [@marco79](https://twitter.com/marco79) for a lot of cool Scriptable iOS widgets as inspiration.
